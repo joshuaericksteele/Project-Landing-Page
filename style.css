@@ -1,0 +1,25 @@
+
+
+.page-top,
+.footer {
+    background-color: #1F2937;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-link,
+.main-secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
