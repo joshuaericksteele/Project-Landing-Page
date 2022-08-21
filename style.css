@@ -18,8 +18,33 @@ a {
     text-decoration: none;
 }
 
+.main-hero {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+
+}
+
 .header-link,
 .main-secondary-text {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.info-header {
+    font-size: 36px;
+    font-style: extra-bold;
+    color: #1F2937;
+}
+
+.sign-up,
+.page-bottom {
+    background-color: #3882f6;
+}
+
+.quote {
+    background-color: #E5E7E8;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
 }
